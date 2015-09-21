@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ColorFinder</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="buttonText">Ajust</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="redInput">Red value</string>
+    <string name="blueInput">Blue value</string>
+    <string name="greenInput">Green value</string>
+</resources>
