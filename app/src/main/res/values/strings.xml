@@ -8,4 +8,5 @@
     <string name="redInput">Red value</string>
     <string name="blueInput">Blue value</string>
     <string name="greenInput">Green value</string>
+    <string name="colorDisplay">Your color</string>
 </resources>
